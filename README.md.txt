@@ -1,37 +1,54 @@
 # 🍰 Cupcakes Gourmet
 
-Projeto Integrador Transdisciplinar II
+Projeto desenvolvido para a disciplina Projeto Integrador Transdisciplinar II.
 
-Aluno: Diogo Nunes dos Santos
+## Objetivo
 
-RGM: 33207445
+Desenvolver uma solução tecnológica para uma cafeteria especializada em cupcakes gourmet.
 
-## Descrição
+## Tecnologias Utilizadas
 
-Sistema para gerenciamento de uma loja de cupcakes gourmet.
+### Front-end
 
-## Tecnologias
-
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+
+### Back-end
+
 - Java
 - Spring Boot
+
+### Banco de Dados
+
 - MySQL
 
-## Estrutura
+## Arquitetura
 
-frontend/
-backend/
-database/
-docs/
-tests/
+MVC (Model View Controller)
 
 ## Funcionalidades
 
 - Cadastro de clientes
 - Login
-- Catálogo de cupcakes
+- Visualização de produtos
+- Carrinho de compras
 - Pedidos
 - Pagamentos
 - Entregas
+
+## Estrutura
+
+```text
+frontend/
+backend/
+database/
+docs/
+tests/
+```
+
+## Autor
+
+Diogo Nunes dos Santos
+
+RGM: 33207445
